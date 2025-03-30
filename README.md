@@ -9,6 +9,6 @@ Every year, the stresses placed upon young shoulders become heavier. As time for
 4. Repeat steps 2 and 3 by loading “AllRetained_test.csv” and saving it as “AllRetained_test.arff.”
 5. Open the file “AllRetained_train.arff” by clicking “Open file…” under the Preprocess tab.
 6. Navigate to the “Classify” tab and click “Choose.” Then, select the Logistic classifier under classifiers > functions > Logistic.
-7. Under “Test options,” select “Supplied test set” and click “Set…” 27
+7. Under “Test options,” select “Supplied test set” and click “Set…”
 8. Click “Open file…” in the new pop-up window and select “AllRetained_test.arff.” Then, click “Close.”
 9. Click the “Start” button. Weka will display the performance metrics for this model, which achieved an accuracy of 75.7322%.
